@@ -27,8 +27,7 @@ proceso:
         - liberar bicicleta y casco ingresados
         
     3- Cierre del día:
-        - en el archivo de alquileres, contar cuantos alquileres tuvo cada
-        elemento
+        - contar cuantos alquileres tuvo cada elemento
         - ordenar este listado de mayor a menor por cant alquileres
         - buscar articulos sin devolver, identificando dni de quien los tiene
         en su poder
